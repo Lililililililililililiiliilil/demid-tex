@@ -3,6 +3,10 @@
  
  По всем вопросам писать мне [VK](https://vk.com/szsss), [Telegram](https://t.me/mycherijv)
  
+ <p align="center">
+  <img src="https://github.com/Lililililililililililiiliilil/demid-tex/blob/main/giphy%20(1).gif?raw=true">
+</p>
+ 
  ---
  
 # Материалы
