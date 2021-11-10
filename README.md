@@ -5,10 +5,10 @@
  
  ---
  
- # Материалы
+# Материалы
  
- ## 2 курс
+## 2 курс
  
- ### Теория систем и системный анализ
+### Теория систем и системный анализ
  
 * [Конспект первой половины курса](https://lililililililililililiiliilil.github.io/demid-tex/course-2/systems-theory/sis.pdf)
